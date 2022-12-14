@@ -1,0 +1,22 @@
+body{
+font-size: larger;
+font-style: initial;
+background: no-repeat;
+width: 600px;
+margin: 0 auto;
+padding: 20px 30px 40px;
+background-image: url(city.jpg);
+border: 2px solid red;
+filter: blur(5000%);
+color: rgb(255, 251, 251)
+
+
+}
+.hm{
+    float: left;
+   width: 300px;
+ }
+ .mf{
+     float: right;
+   width: 300px;
+ }
